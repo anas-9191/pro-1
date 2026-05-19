@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Facebook'),
+          title: Text('FaceBook'),
         ),
         Column(
           children: [
